@@ -317,3 +317,13 @@ main input[type="text"]{
     font-weight: 400;
    padding: 19px 20px 19px 20px;
 }
+/* footer design */
+.footer{
+    background-color: #F7F8F8;
+    margin-top: 100px;
+}
+.footer{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
